@@ -35,7 +35,7 @@ Untuk menjalankan aplikasi ini, sistem minimal yang dibutuhkan adalah sebagai be
 1. Clone repository ini dengan perintah
 
 ```
-git clone https://github.com/bloomingbug/kaizen-management-system.git
+git clone https://github.com/ardifx01/kaizen-management-system.git
 ```
 
 2. Masuk ke direktori aplikasi dengan perintah
